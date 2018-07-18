@@ -28,6 +28,7 @@ footer {
 }
 ul {
   list-style: none;
+  padding: 0;
 }
 #main-nav li {
     margin-top: 15px;
